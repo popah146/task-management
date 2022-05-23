@@ -4,20 +4,18 @@ Laravel Task Management is basic Task Management Appliction using Laravel and Bo
 
 <h3>Pre-Requisites</h3>
 <hr>
-Composer Install
-
-Xampp (PHP -> 8.0.2)
-
-Node Js
-
-Bootstrap ui
-
+Composer Install,
+Xampp (PHP -> 8.0.2),
+Node Js,
+Bootstrap ui,
 Laravel Version 9
 
 <h3>Setup</h3>
 <hr>
 #Clone the project repository by running the command below if you use SSH
-git clone git@github.com:codeaamirkalimi/Task-Management-System-Laravel.git
+
+git clone git@github.com:popah146/task-management.git
+
 #If you use https, use this instead
 
 git clone https://github.com/popah146/task-management.git
