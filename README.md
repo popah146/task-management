@@ -5,9 +5,13 @@ Laravel Task Management is basic Task Management Appliction using Laravel and Bo
 <h3>Pre-Requisites</h3>
 <hr>
 Composer Install
+
 Xampp (PHP -> 8.0.2)
+
 Node Js
+
 Bootstrap ui
+
 Laravel Version 9
 
 <h3>Setup</h3>
